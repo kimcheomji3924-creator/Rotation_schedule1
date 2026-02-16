@@ -1,0 +1,24 @@
+{
+  "name": "본과 3학년 로테이션 일정 관리",
+  "short_name": "로테이션 일정",
+  "description": "4개 조 통합 스케줄 관리 시스템",
+  "start_url": "./rotation-schedule.html",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0a7ea4",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
